@@ -12,7 +12,10 @@
 fe80::1%lo0 localhost
 
 # Safe Search Domains
-
+216.239.38.120   google.com     #forcesafesearch
+176.34.131.233   safe.duckduckgo.com
+216.239.38.120   www.yahoo.com
+216.239.38.119   restrictmoderate.youtube.com
 # Bing
 204.79.197.220 bing.com
 
